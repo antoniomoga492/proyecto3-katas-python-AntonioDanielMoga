@@ -1,14 +1,5 @@
 # Proyecto 3: Katas Python
-#
-# Las 40 katas resueltas. Cada kata va encabezada por un comentario con su enunciado.
-#
-# Pasos seguidos durante el proyecto:
-#   1. Agrupé las katas por tema: funciones básicas, map/filter/reduce, lambdas,
-#      excepciones, clases y programas con input().
-#   2. Resolví cada una en una función, en el orden del enunciado.
-#   3. En las que piden datos al usuario separé la lógica del input().
-#   4. Añadí ejemplos de uso y probé cada kata.
-#
+# Hola Antonio :)
 # Ejecutar con:  python katas.py
 
 import math
